@@ -6,7 +6,7 @@ naranja
 Amarillo
 Verde
 Indigo
-Recycle
+Recycle!
 Unicorn
 Blue
 Red
